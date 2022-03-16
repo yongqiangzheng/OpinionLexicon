@@ -3,6 +3,12 @@
 '''
 @File    :   main.py
 @Time    :   2022/03/14 16:42:32
-@Author  :   ZYQ 
+@Author  :   ZYQ
 '''
+
+import os
+from nltk.corpus import sentiwordnet as swn
+from senticnet.senticnet import SenticNet
+
+
 
