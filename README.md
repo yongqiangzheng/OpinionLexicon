@@ -5,13 +5,14 @@
 
 | 词典 | 年份 |
 | ---- | ---- |
-| [Hu&Liu](#) | 2004 |
-| [SentiWordNet](#) | 2010 |
+| [Hu&Liu](#hu--lius-opinion-lexicon) | 2004 |
+| [SentiWordNet](#sentiwordnet) | 2010 |
 | [General Inquirer] | 2011 |
-| [VADER](#) | 2014 |
+| [VADER](#vader) | 2014 |
 | [MPQA] | 2015 |
 | [SenticNet](#senticnet) | 2020 |
-## Hu & Liu's Opinion Lexicon [[Source]](http://www.cs.uic.edu/~liub/FBS/opinion-lexicon-English.rar)
+## Hu & Liu's Opinion Lexicon
+[[Source]](http://www.cs.uic.edu/~liub/FBS/opinion-lexicon-English.rar)
 
 单词分成positive/negative两类，可直接使用
 
@@ -31,7 +32,8 @@ abnormal
 abolish
 abominable
 ```
-## SentiWordNet[[Source]](https://raw.githubusercontent.com/aesuli/SentiWordNet/master/data/SentiWordNet_3.0.0.txt)
+## SentiWordNet
+[[Source]](https://raw.githubusercontent.com/aesuli/SentiWordNet/master/data/SentiWordNet_3.0.0.txt)
 
 由synset, pos_score, neg_score 和 obj_score组成
 
@@ -92,7 +94,8 @@ abandon_landscape	-0.06
 abandon_pavement	-0.32
 ```
 
-## VADER [[Source]](https://github.com/cjhutto/vaderSentiment)
+## VADER
+[[Source]](https://github.com/cjhutto/vaderSentiment)
 
 
 
