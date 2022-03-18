@@ -3,7 +3,7 @@
 情感词典及其简单处理
 
 
-## Hu & Liu's Opinion Lexicon
+## Hu & Liu's Opinion Lexicon [[Source]](https://github.com/aesuli/SentiWordNet)
 给单词分配一个label，即positive/negative
 ```
 positive.txt
@@ -21,9 +21,9 @@ abnormal
 abolish
 abominable
 ```
-## SentiWordNet
+## SentiWordNet[[Source]](https://github.com/aesuli/SentiWordNet)
 ```
 
 ```
 ## SenticNet
-## VADER
+## VADER [[Source]](https://github.com/cjhutto/vaderSentiment)
