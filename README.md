@@ -74,7 +74,6 @@ tight.s.06	0.625
 SenticNet的属性较多，详细解释请以[官网](http://www.sentic.net)为准，这里不再介绍
 ```
 #senticnet['concept_name'] = ['introspection_value', 'temper_value', 'attitude_value', 'sensitivity_value', 'primary_mood', 'secondary_mood', 'polarity_label', 'polarity_value', 'semantics1', 'semantics2', 'semantics3', 'semantics4', 'semantics5']
-
 senticnet['1st_class'] = ['0.9', '0', '0', '0.9', '#joy', '#eagerness', 'positive', '0.9', 'five_star', 'first_class', 'four-star', 'first-class', 'four_star']
 ```
 预处理仅保留concept_name 和 polarity_value，并以polarity_label分类
